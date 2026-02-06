@@ -117,4 +117,11 @@ CREATE TABLE tasks (
  ## Frontend Screenshots ##
  ## Home Page ##
  <img width="1919" height="1011" alt="image" src="https://github.com/user-attachments/assets/0dad26d8-0f7c-4ee1-8839-2860bcfac420" />
+ ## Registration page ##
+ <img width="1918" height="939" alt="image" src="https://github.com/user-attachments/assets/db56d8a6-5c55-4482-a10c-d566d756d1dc" />
+
+ <img width="1919" height="924" alt="image" src="https://github.com/user-attachments/assets/67552b60-8e06-4461-b322-2cec6e84a97d" />
+
+ 
+
  
