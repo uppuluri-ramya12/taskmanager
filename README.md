@@ -128,6 +128,22 @@ CREATE TABLE tasks (
 
 <img width="1916" height="994" alt="image" src="https://github.com/user-attachments/assets/24276ade-4378-4a17-a6a5-9e1fcddfe4fb" />
 
+## Dashboard with task list ##
+
+<img width="1917" height="842" alt="image" src="https://github.com/user-attachments/assets/b4f9adc1-f168-4a37-b19c-997bbfb319f7" />
+
+<img width="1919" height="795" alt="image" src="https://github.com/user-attachments/assets/a4bc13cc-a39f-44c0-ab3e-2af432d21c9b" />
+
+## Database ##
+<img width="1261" height="513" alt="image" src="https://github.com/user-attachments/assets/39ec18d5-8d3f-4534-9ada-227c261d97a1" />
+
+<img width="1369" height="584" alt="image" src="https://github.com/user-attachments/assets/a85001d8-80f4-4247-807b-90ed360e8985" />
+
+
+
+
+
+
 
 
 
