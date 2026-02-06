@@ -24,8 +24,11 @@ POST /register
 
 {
   "name": "Ramya",
+  
   "email": "ramya@gmail.com",
+  
   "password": "123456"
+  
 }
 ## Login ##
 POST /login
