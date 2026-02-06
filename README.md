@@ -19,14 +19,14 @@ The application allows users to register, log in, and manage tasks securely usin
 ## Base URL ##
 http://localhost:8085/api
 
-**Register User**
+## Register User ##
 POST /register
 {
   "name": "Ramya",
   "email": "ramya@gmail.com",
   "password": "123456"
 }
-**Login**
+## Login ##
 POST /login
 {
   "email": "ramya@gmail.com",
