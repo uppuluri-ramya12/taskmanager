@@ -47,7 +47,7 @@ POST /login
 
 {
 
-  "token": "<jwt-token>"
+  "token": "< jwt-token >"
   
 }
 
@@ -56,7 +56,7 @@ POST /tasks
 
 **Headers:**
 
-Authorization: <jwt-token>
+Authorization: < jwt-token >
 
 **Body:**
 
