@@ -23,6 +23,7 @@ http://localhost:8085/api
 POST /register
 
 {
+
   "name": "Ramya",
   
   "email": "ramya@gmail.com",
@@ -30,12 +31,18 @@ POST /register
   "password": "123456"
   
 }
+
 ## Login ##
 POST /login
+
 {
+
   "email": "ramya@gmail.com",
+  
   "password": "123456"
+  
 }
+
 **Response:**
 {
   "token": "<jwt-token>"
