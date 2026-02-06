@@ -73,7 +73,7 @@ GET /tasks
 
 **Headers:**
 
-Authorization: <jwt-token>
+Authorization: < jwt-token >
 
  ## Database Schema ##
 CREATE DATABASE task_manager;
@@ -114,7 +114,7 @@ CREATE TABLE tasks (
 * Token is sent in the Authorization header for protected API requests.
 * Middleware validates the token before allowing access to task APIs.
 
- **Frontend Screenshots**
+ ## Frontend Screenshots ##
  ## Home Page ##
  <img width="1919" height="1011" alt="image" src="https://github.com/user-attachments/assets/0dad26d8-0f7c-4ee1-8839-2860bcfac420" />
  
