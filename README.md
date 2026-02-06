@@ -124,6 +124,13 @@ CREATE TABLE tasks (
 
  <img width="1919" height="924" alt="image" src="https://github.com/user-attachments/assets/67552b60-8e06-4461-b322-2cec6e84a97d" />
 
+## Login page ##
+
+<img width="1916" height="994" alt="image" src="https://github.com/user-attachments/assets/24276ade-4378-4a17-a6a5-9e1fcddfe4fb" />
+
+
+
+
  
 
  
