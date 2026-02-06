@@ -1,4 +1,4 @@
-**Full Stack Task Manager Application**
+## Full Stack Task Manager Application ##
 This is a full-stack application developed to demonstrate system thinking, REST API design, secure authentication, and frontend–backend integration. 
 The application allows users to register, log in, and manage tasks securely using JWT-based authentication.
 
