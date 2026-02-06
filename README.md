@@ -15,8 +15,8 @@ The application allows users to register, log in, and manage tasks securely usin
 * View tasks specific to the logged-in user
 * Secure API access using middleware
 
-**🔗 API Endpoints**
-**Base URL**
+## 🔗 API Endpoints ##
+## Base URL ##
 http://localhost:8085/api
 
 **Register User**
