@@ -21,6 +21,7 @@ http://localhost:8085/api
 
 ## Register User ##
 POST /register
+
 {
   "name": "Ramya",
   "email": "ramya@gmail.com",
