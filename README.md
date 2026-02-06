@@ -137,6 +137,7 @@ CREATE TABLE tasks (
 ## Database ##
 <img width="1261" height="513" alt="image" src="https://github.com/user-attachments/assets/39ec18d5-8d3f-4534-9ada-227c261d97a1" />
 
+
 <img width="1369" height="584" alt="image" src="https://github.com/user-attachments/assets/a85001d8-80f4-4247-807b-90ed360e8985" />
 
 
