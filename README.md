@@ -3,10 +3,10 @@ This is a full-stack application developed to demonstrate system thinking, REST 
 The application allows users to register, log in, and manage tasks securely using JWT-based authentication.
 
 ## Tech Stack ##
-Frontend: HTML, CSS, JavaScript
-Backend: Node.js, Express
-Database: MySQL
-Authentication: JSON Web Tokens (JWT)
+Frontend: HTML, CSS, JavaScript.
+Backend: Node.js, Express.
+Database: MySQL.
+Authentication: JSON Web Tokens (JWT).
 
 **Features**
 User registration
